@@ -8,12 +8,13 @@ A simple and stylish Chrome extension that displays a **random motivational quot
 - ⚡ **Lightweight & Fast** – Works instantly within Chrome.
 
 ## Screenshots
-_(Add screenshots here if available)_
+[image](https://github.com/user-attachments/assets/74ff4f6b-72e9-4255-9c48-12e62df0593b)
+                                                                                                      
 
 ## Installation
 1. **Download or Clone** this repository.
    ```sh
-   git clone https://github.com/your-username/motivation-booster-extension.git
+   git clone [(https://github.com/divyanshnext/First-Browser-Extension)]
    ```
 2. **Open Chrome** and go to `chrome://extensions/`.
 3. **Enable Developer Mode** (toggle in the top-right corner).
@@ -46,5 +47,5 @@ Pull requests are welcome! If you'd like to improve the extension, feel free to 
 This project is licensed under the MIT License.
 
 ---
-💡 **Developed with passion by [Divyansh](https://github.com/your-username)**
+💡 **Developed with passion by [Divyansh] [https://github.com/divyanshnext/First-Browser-Extension]**
 
